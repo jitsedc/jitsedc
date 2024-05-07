@@ -1,6 +1,6 @@
 ### Hi there, my name is Jitse De Cock 👋
 
-I'm a Senior Technology Consultant at PwC Belgium active in the fields of Interoperability and the Semantic Web since 2021. I'm active at different levels of European government, either as semantic architect, business analyst or project manager:
+I'm a Senior Technology Consultant at PwC Belgium active in the fields of Interoperability and the Semantic Web since 2021. I'm active at different levels of government, either as semantic architect, business analyst or project manager:
 
 - [SEMIC - The European Action on Interoperability (DG DIGIT - European Commission)](https://joinup.ec.europa.eu/collection/semic-support-centre) 
 - [BELGIF - ICEG - The Belgian (Interfederal) Action on Interoperability (FOD BOSA - Federal Belgian Government)](https://www.belgif.be/)
