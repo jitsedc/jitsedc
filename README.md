@@ -8,6 +8,7 @@ I'm a Senior Technology Consultant at PwC Belgium active in the fields of Intero
 
 Some of the semantic data specifications I have contributed to as editor are:
 - [OSLO Cultuurparticipatie](https://github.com/Informatievlaanderen/OSLOthema-DoelgerichtDigitaalTransformeren)
+- [OSLO Cultureel Erfgoed](https://github.com/Informatievlaanderen/OSLOthema-cultureelerfgoed)
 - [OSLO Cultuur- & Jeugdinfrastructuur](https://github.com/Informatievlaanderen/OSLOthema-cultuurandjeugdinfrastructuur)
 - [OSLO Overlijdensaangifte](https://github.com/Informatievlaanderen/OSLOthema-overlijdensaangifte)
 - [OSLO Slimme Raadpleegomgeving](https://github.com/Informatievlaanderen/OSLOthema-slimmeRaadpleegOmgeving)
